@@ -1,0 +1,41 @@
+{
+  "createdAtPaymentLog": "2023-04-17",
+  "totalAmount": 190000,
+  "paymentStatus": "PAID",
+  "paymentMethod": "CASH",
+  "craetedAtInvoice": "2023-04-16",
+  "totalAmountInvoice": 200000,
+  "discount": 10000,
+  "sessionId": "9443b375-d890-4779-9416-9481ffcd4e4b",
+  "invoiceId": 2,
+  "bills": [
+    {
+      "id": 1,
+      "name": "Coffee",
+      "price": 25000,
+      "quantity": 2,
+      "subTotal": 50000
+    },
+    {
+      "id": 2,
+      "name": "Coffee 2",
+      "price": 25000,
+      "quantity": 2,
+      "subTotal": 50000
+    },
+    {
+      "id": 3,
+      "name": "Coffee 3",
+      "price": 25000,
+      "quantity": 2,
+      "subTotal": 50000
+    },
+    {
+      "id": 4,
+      "name": "Coffee 4",
+      "price": 25000,
+      "quantity": 2,
+      "subTotal": 50000
+    }
+  ]
+}

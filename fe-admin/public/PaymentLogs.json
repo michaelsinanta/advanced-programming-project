@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "createdAt": "2023-04-17",
+    "paymentMethod": "BANK",
+    "totalAmount": 150000
+  },
+  {
+    "id": 2,
+    "createdAt": "2023-04-17",
+    "paymentMethod": "BANK",
+    "totalAmount": 150000
+  },
+  {
+    "id": 3,
+    "createdAt": "2023-04-17",
+    "paymentMethod": "BANK",
+    "totalAmount": 150000
+  },
+  {
+    "id": 4,
+    "createdAt": "2023-04-17",
+    "paymentMethod": "BANK",
+    "totalAmount": 150000
+  },
+  {
+    "id": 5,
+    "createdAt": "2023-04-17",
+    "paymentMethod": "BANK",
+    "totalAmount": 150000
+  },
+  {
+    "id": 6,
+    "createdAt": "2023-04-17",
+    "paymentMethod": "BANK",
+    "totalAmount": 150000
+  },
+  {
+    "id": 7,
+    "createdAt": "2023-04-17",
+    "paymentMethod": "BANK",
+    "totalAmount": 150000
+  }
+]

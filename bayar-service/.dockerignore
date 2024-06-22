@@ -1,0 +1,17 @@
+# Dev stuff
+.github
+.git
+.gitignore
+venv
+.venv
+README.md
+.vscode
+.idea
+
+# Spring stuff
+.idea/
+*.iml
+*.iws
+target/
+.sonar/
+.sonarlint/
